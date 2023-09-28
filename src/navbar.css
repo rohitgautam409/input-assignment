@@ -1,0 +1,32 @@
+.navbar{
+    height:150px;
+    border-bottom: 1px solid #282828;
+    
+
+}
+.main{
+    margin:60px 0 40px 60px;
+    background-color:#303030;
+    max-width:400px;
+    display:flex;
+    justify-content:center;
+    border-radius:46px;
+    color:#fff;
+    gap:18px;
+   
+
+
+}
+.btn{
+    
+    font-size:20px;
+    padding:8px 24px 8px 24px;
+}
+.btn:hover{
+    background-color:#fff;
+    color:#000000;
+    border-radius:46px;
+    
+    
+
+}
